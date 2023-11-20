@@ -1,3 +1,4 @@
+#Exercise 2 - Arithmetic Calculation
 num1 = 75
 num2 = 50
 
