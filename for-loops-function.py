@@ -11,6 +11,6 @@ def odd_numbers():
 
 value = input("Odd or Even? ")
 if value == "odd":
-  print_odd_numbers()
+  odd_numbers()
 elif value == "even":
-  print_even_numbers()
+  even_numbers()
